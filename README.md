@@ -19,7 +19,6 @@ The inductive insights on the other hand are approximations on seeing the data. 
 Start working on ML w.r.t QA - 3 days.
 Integration of ML and BD -  7 days.-- Demo on 12th
 
-test edited
 
 
 
