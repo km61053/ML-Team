@@ -17,7 +17,9 @@ Mind that the first type of insights are always exact, so you need to use comput
 The inductive insights on the other hand are approximations on seeing the data. For small amount of Data, a human can try and infer things seeing charts/graphs etc. However, when the data is huge, its beyond human capacity to infer rules from data. This is exactly when Machine Learning comes in.
 
 Start working on ML w.r.t QA - 3 days.
-Integration of ML and BD -  7 days.-- Demo on 12th...
+Integration of ML and BD -  7 days.-- Demo on 12th
+
+test edited
 
 
 
