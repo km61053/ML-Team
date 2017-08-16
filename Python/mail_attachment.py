@@ -32,4 +32,4 @@ def send_mail(fromAddr,toAddr,subject,text,password):
         print ("Error: Unable to send email")
     
     
-send_mail('sneha.bhattaram@imaginea.com','sneha.bhattaram@imaginea.com','Test Python',"First Test with attachment",'Nag&bvl@12')
+send_mail('*****@gmail.com','******@gmail.com','Test Python',"First Test with attachment",'**********')
