@@ -3,8 +3,8 @@ import smtplib
 
 #content= "Test email from python"
 
-message = """From: From Sneha Bhattaram <sneha.bhattaram@imaginea.com>
-To: To Sneha Bhattaram <sneha.bhattaram@imaginea.com>
+message = """From: From Sneha Bhattaram <***************@gmail.com>
+To: To Sneha Bhattaram <********************@gmail.com>
 Subject: SMTP e-mail test using Python
 
 This is a test e-mail message.
@@ -20,9 +20,9 @@ try:
     #To encrytp the login and other methods
     mail.starttls()
 
-    mail.login('sneha.bhattaram@imaginea.com', 'Nag&bvl@12')
+    mail.login('*******@gmail.com', '**********')
 
-    mail.sendmail('sneha.bhattaram@imaginea.com','sneha.bhattaram@imaginea.com',message)
+    mail.sendmail('********@gmail.com','*****@gmail.com',message)
 
     #close the connection
     mail.close()
