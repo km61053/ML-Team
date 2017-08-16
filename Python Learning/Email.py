@@ -1,7 +1,7 @@
 import smtplib
 
 gmail_user = 'bollahari999@gmail.com'  
-gmail_password = 'Bo11a@999'
+gmail_password = '*********'
 
 sender = 'bollahari999@gmail.com'
 receivers = ['bollahari999@gmail.com']
